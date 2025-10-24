@@ -1,4 +1,4 @@
-# AI-Assisted Landing Page
+# AI-Assisted Landing Page - Phuong Daisy
 
 A modern landing page with blog management system built with Next.js 14, TypeScript, and Tailwind CSS.
 
